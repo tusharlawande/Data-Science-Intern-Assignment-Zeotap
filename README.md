@@ -1,4 +1,3 @@
-# Data-Science-Intern-Assignment-Zeotap
 Data Science Internship Tasks
 This repository contains the work completed for the Data Science Internship Assignment. It includes code, insights, and results for three key tasks: Exploratory Data Analysis (EDA), Lookalike Model, and Customer Segmentation/Clustering.
 
